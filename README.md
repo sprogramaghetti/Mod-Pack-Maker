@@ -1,11 +1,9 @@
 # Mod-Pack-Maker
 
-unzip the setup folder  
-in side you will find setup.bat and Mega Pack Maker.bat  
-move the Mega Pack Maker to your desktop  
-run the setup.bat  
-you will get a new folder on your desktop called Minecraft   
-in side that you will find Minecraft, ignore, and mods  
-LEAVE THESE ALONE  
-use the mega pack maker to edit these files  
-if you need any help tell me  
+1. unzip Mod-Pack-Maker
+2. open Mod-Pack-Maker that is inside of the first Mod-Pack-Maker
+3. unzip setup
+4. move setup to dektop
+5. run setup.bat
+6. move Mega-Pack-Maker to dektop
+7. enjoy :)
